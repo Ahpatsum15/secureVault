@@ -1,5 +1,23 @@
-venv
+# Virtual environment
+venv/
 .venv
-*.pyc
-__pycache__
+env/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Other files
 *.json
