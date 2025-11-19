@@ -9,3 +9,6 @@ pluggy==1.6.0
 pycparser==2.23
 Pygments==2.19.2
 pytest==8.4.2
+pyperclip>=1.8.2
+rich>=13.7.0
+

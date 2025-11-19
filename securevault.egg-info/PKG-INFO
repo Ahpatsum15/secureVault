@@ -1,0 +1,47 @@
+Metadata-Version: 2.4
+Name: securevault
+Version: 1.0.0
+Summary: Secure offline password manager with modern cryptography
+Home-page: https://github.com/Ahpatsum15/secureVault
+Author: Ahpatsum15
+Keywords: password manager security cryptography argon2 aes encryption offline
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: End Users/Desktop
+Classifier: Topic :: Security :: Cryptography
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Programming Language :: Python :: 3.12
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Requires-Dist: argon2-cffi>=25.1.0
+Requires-Dist: cryptography>=46.0.2
+Requires-Dist: click>=8.3.0
+Requires-Dist: rich>=13.7.0
+Requires-Dist: pyperclip>=1.8.2
+Dynamic: author
+Dynamic: classifier
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: keywords
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
+
+# SecureVault
+---
+tags: cryptography, project, argon2id, hkdf, AES-GCM, vault
+author: Ahpatsum15
+---
+
+## Goal
+
+My goal from this project is:
+- I always wanted to learn how to code this type of algorithms and I want to improve my coding skills and my knowledge about it, since cryptography is my favourite area
+- I want to build my own personal Password Manager, and give the possibility for other to have a secure password manager without having to trust another company with your data, all with implementing the latest cryptography recommendations and be transparent.
+
+
